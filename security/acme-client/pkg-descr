@@ -8,6 +8,13 @@ WWW: https://github.com/acmesh-official/acme.sh
 Plugin Changelog
 ================
 
+
+3.17
+
+Added:
+* Google Domains DNS API Support
+
+
 3.16
 
 Added:
@@ -70,7 +77,7 @@ Fixed:
 Added:
 * new automation: run remote commands via SSH (#2757)
 
-Fixed:
+ixed:
 * unable to configure key in TransIP API (#2924)
 
 3.9
