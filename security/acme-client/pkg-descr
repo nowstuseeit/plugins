@@ -77,7 +77,7 @@ Fixed:
 Added:
 * new automation: run remote commands via SSH (#2757)
 
-ixed:
+Fixed:
 * unable to configure key in TransIP API (#2924)
 
 3.9
